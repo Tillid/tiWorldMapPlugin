@@ -1,0 +1,4 @@
+Country:
+  columns:
+    name: { type: string(255), notnull: true }
+    code: { type: string(2), notnull: true   }

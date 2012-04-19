@@ -1,0 +1,5 @@
+#map:
+#  url: /:sf_culture/map
+#  param: { module: tiWorldMap, action: index }
+#  requirements:
+#    sf_culture: (?:fr|en)

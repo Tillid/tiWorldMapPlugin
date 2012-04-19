@@ -1,0 +1,547 @@
+Country:
+  indonesia:
+    name: Indonesia
+    code: id
+  papua_new_guinea:
+    name: Papua New Guinea
+    code: pg
+  mexico:
+    name: Mexico
+    code: mx
+  estonia:
+    name: Estonia
+    code: ee
+  algeria:
+    name: Algeria
+    code: dz
+  morocco:
+    name: Morocco
+    code: ma
+  mauritania:
+    name: Mauritania
+    code: mr
+  senegal:
+    name: Senegal
+    code: sn
+  gambia:
+    name: Gambia
+    code: gm
+  guinea_bissau:
+    name: Guinea-Bissau
+    code: gw
+  guinea:
+    name: Guinea
+    code: gn
+  sierra_leone:
+    name: Sierra Leone
+    code: sl
+  liberia:
+    name: Liberia
+    code: lr
+  cote_ivoire:
+    name: Côte d'Ivoire
+    code: ci
+  mali:
+    name: Mali
+    code: ml
+  burkina_faso:
+    name: Burkina Faso
+    code: bf
+  niger:
+    name: Niger
+    code: ne
+  ghana:
+    name: Ghana
+    code: gh
+  togo:
+    name: Togo
+    code: tg
+  benin:
+    name: Benin
+    code: bj
+  nigeria:
+    name: Nigeria
+    code: ng
+  tunisia:
+    name: Tunisia
+    code: tn
+  libya:
+    name: Libya
+    code: ly
+  egypt:
+    name: Egypt
+    code: eg
+  chad:
+    name: Chad
+    code: td
+  sudan:
+    name: Sudan
+    code: sd
+  cameroon:
+    name: Cameroon
+    code: cm
+  eritrea:
+    name: Eritrea
+    code: er
+  djibouti:
+    name: Djibouti
+    code: dj
+  ethiopia:
+    name: Ethiopia
+    code: et
+  somalia:
+    name: Somalia
+    code: so
+  yemen:
+    name: Yemen
+    code: ye
+  central_african_republic:
+    name: Central African Republic
+    code: cf
+  sao_tome_and_principe:
+    name: Sao Tome and Principe
+    code: st
+  equatorial_guinea:
+    name: Equatorial Guinea
+    code: gq
+  gabon:
+    name: Gabon
+    code: ga
+  republic_congo:
+    name: Republic of the Congo
+    code: cg
+  angola:
+    name: Angola
+    code: ao
+  democratic_congo:
+    name: Democratic Republic of the Congo
+    code: cd
+  rwanda:
+    name: Rwanda
+    code: rw
+  burundi:
+    name: Burundi
+    code: bi
+  ugunda:
+    name: Ugunda
+    code: ug
+  kenya:
+    name: Kenya
+    code: ke
+  tanzania:
+    name: Tanzania
+    code: tz
+  zambia:
+    name: Zambia
+    code: zm
+  malawi:
+    name: Malawi
+    code: mw
+  mozambique:
+    name: Mozambique
+    code: mz
+  zimbabwe:
+    name: Zimbabwe
+    code: zw
+  namibia:
+    name: Namibia
+    code: na
+  botswana:
+    name: Botswana
+    code: bw
+  swaziland:
+    name: Swaziland
+    code: sz
+  lesotho:
+    name: Lesotho
+    code: ls
+  south_africa:
+    name: South Africa
+    code: za
+  greenland:
+    name: Greenland
+    code: gl
+  australia:
+    name: Australia
+    code: au
+  new_zealand:
+    name: New Zealand
+    code: nz
+  new_caledonia:
+    name: New Caledonia
+    code: nc
+  malaysia:
+    name: Malaysia
+    code: my
+  brunei_darussalam:
+    name: Brunei Darussalam
+    code: bn
+  timor_leste:
+    name: Timor Leste
+    code: tl
+  solomon_islands:
+    name: Solomon Islands
+    code: sb
+  vanuatu:
+    name: Vanuatu
+    code: vu
+  fiji:
+    name: Fiji
+    code: fj
+  philippines:
+    name: Philippines
+    code: ph
+  china:
+    name: China
+    code: cn
+  taiwan:
+    name: Taiwan
+    code: rw
+  japan:
+    name: Japan
+    code: jp
+  russian_federation:
+    name: Russian Federation
+    code: ru
+  united_states_of_america:
+    name: United States of America
+    code: us
+  mauritius:
+    name: Mauritius
+    code: mu
+  reunion:
+    name: Reunion
+    code: re
+  madagascar:
+    name: Madagascar
+    code: mg
+  comoros:
+    name: Comoros
+    code: km
+  seychelles:
+    name: Seychelles
+    code: sc
+  maldives:
+    name: Maldives
+    code: mv
+  portugal:
+    name: Portugal
+    code: pt
+  spain:
+    name: Spain
+    code: es
+  cape_verde:
+    name: Cape Verde
+    code: cv
+  french_poylnesia:
+    name: French Polynesia
+    code: pf
+  saint_kitts_and_newis:
+    name: Saint Kitts and Newis
+    code: kn
+  antigua_and_barbuda:
+    name: Antigua and Barbuda
+    code: ag
+  dominica:
+    name: Dominica
+    code: dm
+  saint_lucia:
+    name: Saint Lucia
+    code: lc
+  barbados:
+    name: Barbados
+    code: bb
+  grenada:
+    name: Grenada
+    code: gd
+  trinidad_and_tobago:
+    name: Trinidad and Tobago
+    code: tt
+  dominican_republic:
+    name: Dominican Republic
+    code: do
+  haiti:
+    name: Haiti
+    code: ht
+  falkland_islands:
+    name: Falkland Islands
+    code: fk
+  iceland:
+    name: Iceland
+    code: is
+  norway:
+    name: Norway
+    code: no
+  sri_lanka:
+    name: Sri Lanka
+    code: lk
+  cuba:
+    name: Cuba
+    code: cu
+  bahamas:
+    name: Bahamas
+    code: bs
+  jamaica:
+    name: Jamaica
+    code: jm
+  ecuador:
+    name: Ecuador
+    code: ec
+  canada:
+    name: Canada
+    code: ca
+  guatemala:
+    name: Guatemala
+    code: gt
+  honduras:
+    name: Honduras
+    code: hn
+  el_salvador:
+    name: El Salvador
+    code: sv
+  nicaragua:
+    name: Nicaragua
+    code: ni
+  costa_rica:
+    name: Costa Rica
+    code: cr
+  panama:
+    name: Panama
+    code: pa
+  colombia:
+    name: Colombia
+    code: co
+  venezuela:
+    name: Venezuela
+    code: ve
+  guyana:
+    name: guyana
+    code: gy
+  suriname:
+    name: Suriname
+    code: sr
+  french_guiana:
+    name: French Guiana
+    code: gf
+  peru:
+    name: Peru
+    code: pe
+  bolivia:
+    name: Bolivia
+    code: bo
+  paraguay:
+    name: Paraguay
+    code: py
+  uruguay:
+    name: Uruguay
+    code: uy
+  argentina:
+    name: Argentina
+    code: ar
+  chile:
+    name: Chile
+    code: cl
+  brazil:
+    name: Brazil
+    code: br
+  belize:
+    name: Belize
+    code: bz
+  mongolia:
+    name: Mongolia
+    code: mn
+  north_korea:
+    name: North Korea
+    code: kp
+  south_korea:
+    name: South Korea
+    code: kr
+  kazakhstan:
+    name: kazakhstan
+    code: kz
+  turkmenistan:
+    name: Turkmenistan
+    code: tm
+  uzbekistan:
+    name: Uzbekistan
+    code: kg
+  kyrgyz_republic:
+    name: Kyrgyz Republic
+    code: kg
+  afghanistan:
+    name: Afghanistan
+    code: af
+  pakistan:
+    name: Pakistan
+    code: pk
+  india:
+    name: India
+    code: in
+  nepal:
+    name: Nepal
+    code: ne
+  bhutan:
+    name: Bhutan
+    code: bt
+  bangladesh:
+    name: Bangladesh
+    code: bd
+  myanmar:
+    name: Myanmar
+    code: mm
+  thailand:
+    name: Thailand
+    code: th
+  cambodia:
+    name: Cambodia
+    code: kh
+  laos:
+    name: Lao People's Democratic Republic
+    code: la
+  vietnam:
+    name: Vietnam
+    code: vn
+  georgia:
+    name: Georgia
+    code: ge
+  armenia:
+    name: Armenia
+    code: am
+  azerbaijan:
+    name: Azerbaijan
+    code: az
+  iran:
+    name: Iran
+    code: ir
+  turkey:
+    name: Turkey
+    code: tr
+  oman:
+    name: Oman
+    code: om
+  united_arab_states:
+    name: United Arab States
+    code: ae
+  qatar:
+    name: Qatar
+    code: qa
+  kuwair:
+    name: Kuwait
+    code: kw
+  saudi_arabia:
+    name: Saudi Arabia
+    code: sa
+  syrian_arab_republic:
+    name: Syrian Arab Republic
+    code: sy
+  iraq:
+    name: Iraq
+    code: iq
+  jordan:
+    name: Jordan
+    code: jo
+  lebanon:
+    name: Lebanon
+    code: lb
+  israel:
+    name: Israel
+    code: il
+  cyprus:
+    name: Cyprus
+    code: cy
+  united_kingdom:
+    name: United Kingdom
+    code: gb
+  ireland:
+    name: Ireland
+    code: ie
+  sweden:
+    name: Sweden
+    code: se
+  finland:
+    name: Finland
+    code: fi
+  latvia:
+    name: Latvia
+    code: lv
+  lithuania:
+    name: Lithuania
+    code: lt
+  belarus:
+    name: Belarus
+    code: by
+  poland:
+    name: Poland
+    code: pl
+  italy:
+    name: Italy
+    code: it
+  france:
+    name: France
+    code: fr
+  netherlands:
+    name: Netherlands
+    code: nl
+  belgium:
+    name: Belgium
+    code: be
+  germany:
+    name: Germany
+    code: de
+  denmark:
+    name: Denmark
+    code: dk
+  switzerland:
+    name: Switzerland
+    code: ch
+  czech_republic:
+    name: Czech Republic
+    code: cz
+  slovakia:
+    name: Slovakia
+    code: sk
+  austria:
+    name: Austria
+    code: at
+  hungary:
+    name: Hungary
+    code: hu
+  slovenia:
+    name: Slovenia
+    code: si
+  croatia:
+    name: Croatia
+    code: hr
+  bosnia_and_herzegovina:
+    name: Bosnia and Herzegovina
+    code: ba
+  malta:
+    name: Malta
+    code: mt
+  ukraine:
+    name: Ukraine
+    code: ua
+  moldova:
+    name: Moldova
+    code: md
+  romania:
+    name: Romania
+    code: ro
+  serbia:
+    name: Serbia
+    code: rs
+  bulgaria:
+    name: Bulgaria
+    code: bg
+  albnia:
+    name: Albania
+    code: al
+  macedonia:
+    name: Macedonia
+    code: mk
+  greece:
+    name: Greece
+    code: gr
+  palestine:
+    name: Palestine
+    code: ps
