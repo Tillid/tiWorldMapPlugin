@@ -22,7 +22,7 @@ This plugin relies on jquery, so you will also need jquery.
 			{
 				$this->enablePlugins(array(
 				'sfDoctrinePlugin', 
-				'sfDoctrineOAuthServerPlugin',
+				'tiWorldMapPlugin',
 				'...'
 				));
 			}
@@ -36,7 +36,7 @@ This plugin relies on jquery, so you will also need jquery.
 
         all:
 			.settings:
-            enabled_modules:      [default, tiWorldMapPLugin]
+            enabled_modules:      [default, tiWorldMapPlugin]
 
 * Publish the plugin assets
 
@@ -52,8 +52,8 @@ This plugin relies on jquery, so you will also need jquery.
 
 To use the _tiWorldMapPlugin_, you have to include the worldmap in your page with include_component
 
-		[php]
-		include_component('tiWorldMap', 'worldmap', array());
+	[php]
+	include_component('tiWorldMap', 'worldmap', array());
 
 ###Options###
 
