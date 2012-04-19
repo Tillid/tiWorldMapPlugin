@@ -8,7 +8,7 @@
    http://pear.php.net/dtd/package-2.0.xsd"
 >
 	<name>tiWorldMapPlugin</name>
-	<channel>plugins.symfony-project.org</channel>
+	<channel>pear.symfony-project.com</channel>
 	<summary>A world map plugin</summary>
 	<description>A world map plugin</description>
 	<lead>
@@ -29,12 +29,11 @@
 	<license uri="http://www.symfony-project.com/license">
 		MIT license
 	</license>
-	<notes />
+	<notes>-</notes>
 	<contents>
 		<dir name="/">
-			<file role="data" name="README" />
+			<file role="data" name="README.md" />
 			<file role="data" name="LICENSE" />
-			<file role="data" name="VERSION" />
 			<dir name="config">
 				<dir name="doctrine">
 					<file role="data" name="schema.yml" />
