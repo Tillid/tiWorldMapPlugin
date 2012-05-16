@@ -1,4 +1,4 @@
-Country:
+B0;136;0cCountry:
   indonesia:
     name: Indonesia
     code: id
@@ -379,7 +379,7 @@ Country:
     code: in
   nepal:
     name: Nepal
-    code: ne
+    code: np
   bhutan:
     name: Bhutan
     code: bt
